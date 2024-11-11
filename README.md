@@ -13,7 +13,7 @@ l'interface contient
 - un onglet Home :  affichant les principaux graphiques 
 
 
-![Aperçu de l'interface](images/stramlitHome.PNG)
+![Aperçu de l'interface](Images/stramlitHome.PNG)
 
 - un onglet Carte: distribution des clients sur la carte de france
 

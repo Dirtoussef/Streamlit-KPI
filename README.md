@@ -1,10 +1,10 @@
 =======
 # Streamlit-KPI
-E-commerce Business KPI Dashboard
+
 
 Bienvenue dans le projet **Streamlit KPI Dashboard** !
 
-Ce projet utilise **Streamlit** pour créer un tableau de bord interactif permettant de visualiser des **indicateurs clés de performance (KPI)** . Il est conçu pour aider les les clients afin de visualiser leurs résultats de business d'une maniére dyanmique en temps réel .
+Ce projet utilise **Streamlit** pour créer un tableau de bord interactif permettant de visualiser des **indicateurs clés de performance (KPI)** . Il est conçu pour aider les les clients **(E-commerce)** afin de visualiser leurs résultats de business d'une maniére dyanmique en temps réel .
 
 ## Fonctionnalités
 
@@ -17,6 +17,7 @@ l'interface contient
 
 - un onglet Carte: distribution des clients sur la carte de france
 
+![Carte](Images/carte.png)
 - un onglet Audience: conçue pour afficher les differentes distributions 
 
 - un onglet Segmentation : grpahiques pour les differents segments des clients 

@@ -15,7 +15,7 @@ l'interface contient
 
 ![Home](Images/stramlitHome.PNG)
 
-- Onglet Carte: visualise  distribution des clients sur la carte de france
+- Onglet Carte : visualise  la distribution des clients sur la carte de france
 
 ![Carte](Images/carte.png)
 
@@ -27,7 +27,7 @@ l'interface contient
 
 ![Seg](Images/seg3.png)
 
-- Onglet Data quality : visualisant l'état et la qualité de données 
+- Onglet Data quality : visualise l'état et la qualité de données 
 
 ![Dataquality](Images/Dataquality1.png)
 

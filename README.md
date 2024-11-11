@@ -10,7 +10,7 @@ Ce projet utilise **Streamlit** pour créer un tableau de bord interactif permet
 
 l'interface contient 
 
-- un onglet Home :  affichant les principaux graphiques 
+- un onglet Home :  affichant les principaux graphiques de performance
 
 
 ![Aperçu de l'interface](Images/stramlitHome.PNG)
@@ -18,10 +18,16 @@ l'interface contient
 - un onglet Carte: distribution des clients sur la carte de france
 
 ![Carte](Images/carte.png)
-- un onglet Audience: conçue pour afficher les differentes distributions 
 
-- un onglet Segmentation : grpahiques pour les differents segments des clients 
+- un onglet Audience: affiche  differentes distributions de données
+
+[Audience](Images/audeince1.PNG)
+
+- un onglet Segmentation : Contient des graphiques pour analyser les différents segments de clients
+
+[Seg](Images/seg3.png)
 
 - un onglet: Data quality : visualisant l'etat et la qualité de donnée 
 
+[Seg](Images/Dataquality1.png)
 

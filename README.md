@@ -13,7 +13,7 @@ l'interface contient
 - un onglet Home :  affichant les principaux graphiques de performance
 
 
-![Aperçu de l'interface](Images/stramlitHome.PNG)
+![Home](Images/stramlitHome.PNG)
 
 - un onglet Carte: distribution des clients sur la carte de france
 
@@ -21,13 +21,13 @@ l'interface contient
 
 - un onglet Audience: affiche  differentes distributions de données
 
-[Audience](Images/audeince1.PNG)
+![Audience](Images/audeince1.PNG)
 
 - un onglet Segmentation : Contient des graphiques pour analyser les différents segments de clients
 
-[Seg](Images/seg3.png)
+![Seg](Images/seg3.png)
 
 - un onglet: Data quality : visualisant l'etat et la qualité de donnée 
 
-[Seg](Images/Dataquality1.png)
+![Dataquality](Images/Dataquality1.png)
 

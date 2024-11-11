@@ -1,6 +1,9 @@
-<<<<<<< HEAD
-## app avanci
 =======
 # Streamlit-KPI
 E-commerce Business KPI Dashboard
->>>>>>> 8a2ff1d4ae4273a336f658ad453c6e607bf773d4
+
+Bienvenue dans le projet **Streamlit KPI Dashboard** !
+
+Ce projet utilise **Streamlit** pour créer un tableau de bord interactif permettant de visualiser des **indicateurs clés de performance (KPI)**. Il est conçu pour aider les équipes à suivre et analyser leurs données de manière dynamique et accessible.
+
+## Fonctionnalités

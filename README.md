@@ -1,3 +1,10 @@
+![Repo Size](https://img.shields.io/github/repo-size/Dirtoussef/EDFapp)
+![Code Size](https://img.shields.io/github/languages/code-size/Dirtoussef/EDFapp)
+![Top Language](https://img.shields.io/github/languages/top/Dirtoussef/EDFapp)
+![Last Commit](https://img.shields.io/github/last-commit/Dirtoussef/EDFapp)
+![License](https://img.shields.io/github/license/Dirtoussef/EDFapp)
+![Python](https://img.shields.io/badge/made%20with-Python-3776AB?logo=python&logoColor=white)
+
 # 📊 Streamlit KPI Dashboard
 
 Bienvenue dans le projet **Streamlit KPI Dashboard** !  
